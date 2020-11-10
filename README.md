@@ -1,5 +1,5 @@
 # GitHub Search project
-#### Simple web app that searches github usernames and their repositories.
+#### Simple web app that searches github usernames and their corresponding repositories.
 ## Author
 Hortense Kirezi Bana
 
