@@ -25,7 +25,7 @@ export class ReopsitoriesComponent implements OnInit {
   }
 
   ngOnInit() {
-    this.repoSearch('Owiti-Charles');
+    this.repoSearch('kirezibana');
   }
  
 }
