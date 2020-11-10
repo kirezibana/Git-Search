@@ -70,12 +70,10 @@ p{
 .repos h2{
   font-size: 45px;
   margin-bottom: 2%;
-  font-family: 'Berkshire Swash', cursive;
 }
 #mouse-click{
   margin-top: -2%;
   padding-bottom: 30px; 
-  /* animation-iteration-count: infinite; */
 }
 #mouse-click {
   animation: bounce 2s infinite;
@@ -116,5 +114,4 @@ p{
 }
 #created{
   font-weight: 400;
-  font-family: 'Pangolin', cursive;
 }
