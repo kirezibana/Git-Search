@@ -21,7 +21,7 @@ This web page is going to display github usernames and their repositories.
 
 
 ## Github Pages link
-You can view the live application by following this link 
+You can view the live application by following this link https://kirezibana.github.io/Git-Search/
 
 ## Contact information
 * hortensebana32@gmail.com
