@@ -9,12 +9,12 @@ img{
   border-radius: 8px;
 }
 .card{
-  background-color: rgba(5, 146, 146, 0.6);
+  background-color: rgba(67, 74, 136, 0.6);
   box-shadow: 3px 3px 5px black;
 
 }
 .repo{
-  background-color:rgba(232, 253, 255, 0.705);
+  background-color:rgba(67, 74, 136, 0.6);
   color: black;
   margin-bottom: 2%;
   border-radius: 4px; 
