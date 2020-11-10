@@ -1,3 +1,6 @@
+.container-fluid{
+  background-color: darkgray;
+}
 .overlay{
   background-color: rgba(0, 0, 0, 0.5);
   margin-top:1%;
@@ -48,7 +51,6 @@ p{
   float: right;
 }
 .allrepos{
-  font-family: 'Lustria', serif;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
